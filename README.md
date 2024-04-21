@@ -73,4 +73,4 @@ Don't forget to generate your own SMBIOS with https://github.com/corpnewt/GenSMB
 
 ## Credits
 
-Big thanks for the hardwork of deeveedee and all insanelymac community.
+Big thanks for the hardwork of all insanelymac community.
