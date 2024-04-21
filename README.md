@@ -70,7 +70,3 @@ Macmini8,1
 Don't forget to generate your own SMBIOS with https://github.com/corpnewt/GenSMBIOS. 
 
 - ENJOY!
-
-## Credits
-
-Big thanks for the hardwork of all insanelymac community.
